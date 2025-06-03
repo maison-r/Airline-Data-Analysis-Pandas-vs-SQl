@@ -1,4 +1,3 @@
-# Airline-Data-Analysis-Pandas-vs-SQl
 # Airline Data Analysis: SQL vs Pandas
 
 ## Overview
