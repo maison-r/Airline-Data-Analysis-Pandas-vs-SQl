@@ -1,0 +1,8 @@
+These are the python packages that need to be imported in order to complete this task.
+pandas 
+sqlite3
+os
+numpy 
+tempfile
+os.path
+imatplotlib.pyplot 
